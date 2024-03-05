@@ -3,7 +3,7 @@
 <param ve-config 
        title="Orchid" 
        author="Katherine Enright"
-       banner="KatherineMEnright/Rhizophora/Rhizophora.jpg" 
+       banner="KatherineMEnright/Rhizophora/rhizophora-screenshot.png" 
        layout="vertical">
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
