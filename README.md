@@ -1,6 +1,6 @@
 
 <param ve-config 
-       title="Rhizophora: Precarious Life at the Water’s Edge" 
+       title="Rhizophora: Sustaining Life at the Water’s Edge" 
        author="Katherine Enright"
        banner="KatherineMEnright/Rhizophora/Rhizophora.jpg" 
        layout="vertical">
