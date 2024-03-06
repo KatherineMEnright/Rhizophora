@@ -11,7 +11,8 @@ Trees of the genus <span eid=Q131521>*Rhizophora*</span>, with their characteris
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mangrove_Tree_%28Rhizophora_mucronata_Lam.%29%3B_branch_with_flowe_Wellcome_V0042664.jpg/1501px-Mangrove_Tree_%28Rhizophora_mucronata_Lam.%29%3B_branch_with_flowe_Wellcome_V0042664.jpg?20141107051100"
        title="Mangrove Tree (Rhizophora mucronata Lam.): branch with flowers and fruits and separate sectioned flower and fruit with seed. Coloured line engraving"
        attribution="Hortus Malabaricus, 1686, via the Wellcome Collection https://wellcomecollection.org/works/g2buvnpr"
-       license="public domain">
+       license="public domain"
+       fit="contain">
 
 Rhizophora—and indeed, all mangrove tree species—have gained significant attention in recent years for their ecosystem services. Mangroves are a hot topic in environmental financialisation frameworks as carbon sinks, and for their utility in protecting coastlines from erosion. This instrumentalist approach to conservation largely ignores the experiences of coastal communities who have long lived with these trees. In Singapore, one of the most common species is Rhizophora apiculata, or “bakau minyak” (oil mangrove) in Malay. Bakau wood is durable and water-resistant, and features heavily in the traditional construction of boats and coastal dwellings by the Orang Laut and Orang Pulau native islander communities.
 <param ve-image 
