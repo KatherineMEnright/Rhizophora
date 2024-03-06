@@ -25,7 +25,7 @@ This small snapshot of history of *Rhizophora* mangroves in Singapore reveals ho
 <param ve-image 
        label="The Making of Fish Traps (Kelong Bubus) by Co-operators of the Singapore East Coast Co-Operative Credit and Fish Marketing Society, 1955" 
        description="Copyright held by National Archives of Singapore" 
-       url="https://github.com/KatherineMEnright/Rhizophora/blob/8bb9689c6926130717842ba6f5c9ebce196ebb59/kelong%20bubu.jpg">
+       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980005790-8106-3181-8533/img0054.jpg">
 
 [1]: Mark Chatting et al., “Future Mangrove Carbon Storage Under Climate Change and Deforestation,” Frontiers in Marine Science 9 (2022), https://www.frontiersin.org/articles/10.3389/fmars.2022.781876.
 [2]:
