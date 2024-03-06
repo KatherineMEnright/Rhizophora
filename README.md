@@ -14,10 +14,14 @@ Trees of the genus <span eid=Q131521>*Rhizophora*</span>, with their characteris
        license="public domain"
        fit="contain">
 
-Rhizophora—and indeed, all mangrove tree species—have gained significant attention in recent years for their ecosystem services. Mangroves are a hot topic in environmental financialisation frameworks as carbon sinks, and for their utility in protecting coastlines from erosion. This instrumentalist approach to conservation largely ignores the experiences of coastal communities who have long lived with these trees. In Singapore, one of the most common species is Rhizophora apiculata, or “bakau minyak” (oil mangrove) in Malay. Bakau wood is durable and water-resistant, and features heavily in the traditional construction of boats and coastal dwellings by the Orang Laut and Orang Pulau native islander communities.
+*Rhizophora*—and indeed, all mangrove tree species—have gained significant attention in recent years for their ecosystem services. Mangroves are a hot topic in environmental financialisation frameworks as carbon sinks, and for their utility in protecting coastlines from erosion.[1] This instrumentalist approach to conservation largely ignores the experiences of coastal communities who have long lived with these trees. In Singapore, one of the most common species is *Rhizophora mucronata*, or “bakau kurap” in Malay. Bakau wood is durable and water-resistant, and features heavily in the traditional construction of boats and coastal dwellings by the Orang Laut and Orang Pulau native islander communities.
 <param ve-image 
        label="Pulau Tekong -- View of kelong or floating fish farm off Changi Point, from the island (pulau)" 
        description="Copyright held by National Archives of Singapore" 
        url="KatherineMEnright/Rhizophora/kelong.jpg">
-       
-       
+<param ve-image 
+       label="Pulau Tekong -- View of kelong or floating fish farm off Changi Point, from the island (pulau)" 
+       description="Copyright held by National Archives of Singapore" 
+       url="KatherineMEnright/Rhizophora/kelong bubu.jpg">
+
+[1]: Mark Chatting et al., “Future Mangrove Carbon Storage Under Climate Change and Deforestation,” Frontiers in Marine Science 9 (2022), https://www.frontiersin.org/articles/10.3389/fmars.2022.781876.
